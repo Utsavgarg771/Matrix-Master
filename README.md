@@ -1,5 +1,5 @@
 # Matrix-Master
-Web-based Interactive Matrix Solver for Efficient Linear Algebra Computations
+Web-based Interactive Matrix Solver for Efficient Linear Algebra Computations ~~~
 Matrix-Master is a web-based application designed to simplify matrix calculations. This tool allows users to input matrices and perform various operations like finding the trace, inverse, determinant, and more. It is built for students, teachers, and anyone interested in linear algebra computations.
 
 Features
