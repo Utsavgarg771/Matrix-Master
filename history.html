@@ -1,0 +1,12 @@
+<h2>Your Matrix History</h2>
+<ul>
+    {% for entry in history %}
+        <li>
+            <strong>Input Matrix:</strong><br>
+            <pre>{{ entry.matrix_input }}</pre><br>
+            <strong>Output:</strong><br>
+            <pre>{{ entry.matrix_output }}</pre><br>
+            <small>{{ entry.created_at }}</small>
+        </li>
+    {% endfor %}
+</ul>
